@@ -1,0 +1,10 @@
+﻿  pract7_Savitsin.cpp
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(113,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(120,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(128,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(140,46): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(284,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(288,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(379,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\pract7_Savitsin\pract7_Savitsin.cpp(387,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  pract7_Savitsin.vcxproj -> C:\Program Files (x86)\projects\sp_pract7_Savitsin-main\x64\Debug\pract7_Savitsin.exe
